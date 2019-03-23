@@ -1,0 +1,24 @@
+{
+  "name": "prueba-heroku",
+  "version": "1.0.0",
+  "description": "Deploy heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorixd/prueba-heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorixd/prueba-heroku/issues"
+  },
+  "homepage": "https://github.com/hectorixd/prueba-heroku#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
